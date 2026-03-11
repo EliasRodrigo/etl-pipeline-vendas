@@ -1,0 +1,7 @@
+date,product,category,price,quantity,city,revenue,year,month,day
+2024-01-01,Notebook,Eletronicos,3500,2,São Paulo,7000,2024,1,1
+2024-01-02,Mouse,Eletronicos,80,5,Rio de Janeiro,400,2024,1,2
+2024-01-03,Teclado,Eletronicos,150,3,Belo Horizonte,450,2024,1,3
+2024-01-04,Notebook,Eletronicos,3400,1,São Paulo,3400,2024,1,4
+2024-01-05,Mouse,Eletronicos,90,6,Curitiba,540,2024,1,5
+2024-01-06,Monitor,Eletronicos,1200,2,Rio de Janeiro,2400,2024,1,6
